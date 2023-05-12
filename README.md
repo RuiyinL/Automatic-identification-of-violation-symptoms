@@ -22,7 +22,9 @@ During code review, reviewers typically expend a substantial amount of effort in
 │   |   ├── cc.en.200.bin
 │   |   ├── cc.en.300.bin
 │   |   ├── glove.twitter.27B.200d.txt
-│   |   └── SO_vectors_200.bin
+│   |   ├── SO_vectors_200.bin
+│   |   ├── embedding_dim.py
+│   |   └── Download_url.txt
 │   ├── Randomly_selected_comments.xlsx
 │   ├── Violation symptoms.xlsx
 └── scripts
