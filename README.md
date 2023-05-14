@@ -29,7 +29,7 @@ During code review, reviewers typically expend a substantial amount of effort in
 │   |   ├── embedding_dim.py
 │   |   └── Download_url.txt
 │   ├── Randomly_selected_comments.xlsx
-│   ├── Violation symptoms.xlsx
+│   ├── Violation_symptoms.xlsx
 ├── scripts
 |   ├── classifiers
 |   |   ├── DL_classifiers.py
@@ -42,8 +42,8 @@ During code review, reviewers typically expend a substantial amount of effort in
 |       ├── preprocessing.py
 |       └── w2vemb.py
 └── survey
-    ├── survey form.pdf
-    └── template of customized emails.pdf
+    ├── survey_form.pdf
+    └── template_of_customized_emails.pdf
 ```
 
 ## Experiment Steps
@@ -63,7 +63,7 @@ Training classifiers:
 
 ## Experiment Environment
 
-requirements:
+Required packages and their versions:
 - `torch==1.11.0`
 - `numpy==1.22.3`
 - `gensim==4.1.2`
