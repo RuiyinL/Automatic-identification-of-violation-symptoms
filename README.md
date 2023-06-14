@@ -1,4 +1,4 @@
-# Replication Package for the Paper: Towards Automatic Identification of Violation Symptoms of Architecture Erosion: Experiments and Industrial Validation
+# Replication Package for the Paper: Towards Automatic Identification of Violation Symptoms of Architecture Erosion
 
 ##### Authors: Ruiyin Li, Peng Liang, Paris Avgeriou
 
